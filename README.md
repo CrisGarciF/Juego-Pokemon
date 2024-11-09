@@ -1,9 +1,9 @@
 #Juego Pokemon
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JS
+- JS
 
--NODE.JS
+- NODE.JS
