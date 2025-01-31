@@ -1,8 +1,8 @@
 # Juego Pokemon
 
-- HTML
+- HTML.
 
-- CSS
+- CSS.
 
 - JS.
 
