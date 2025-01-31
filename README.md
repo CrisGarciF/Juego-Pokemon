@@ -4,6 +4,6 @@
 
 - CSS
 
-- JS
+- JS.
 
-- NODE.JS
+- NODE.JS.
